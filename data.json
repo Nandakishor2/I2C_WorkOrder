@@ -1,1 +1,12 @@
-[{"name":"Nandakishor","age":23,"designation":"Graduate Engineer Trainee"}]
+[
+  {
+    "name": "Nandakishor",
+    "age": 23,
+    "designation": "Graduate Engineer Trainee"
+  },
+  {
+    "name": "Ravitej",
+    "age": 23,
+    "designation": "Cloud Engineer"
+  }
+]
